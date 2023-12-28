@@ -1,0 +1,14 @@
+1. Explain what the calculations above might or might not tell you about the "fairness" of your Naive Bayesian network. Explain in 50-100 words.
+For calculations in question #1 and #2, the result shows that only 8.06% of women are predicted to have a probability of more than 50% to have >=50K salary, 
+even regardless of Gender. The reason why this happened is because there are too few observations of women with salaries >=50K. 
+The result described above reminds me of the "fairness" of my Naive Bayesian network might be due to a lack of samples or bias in the sample.
+
+
+
+2. Would you be willing to use your model to recommend starting salaries for employees at a firm? Why or why not? Explain in 50-100 words.
+No, I would not. 
+From the prediction results (percentages), I suspect the training dataset might be too small or biased, which consequently leads to a biased 
+and less robust model. Overall, I don't believe this model is ready for use in a firm for recommending starting salaries.
+
+
+
