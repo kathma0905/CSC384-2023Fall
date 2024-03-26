@@ -9,7 +9,7 @@ The basic heuristic function used in this task is the Manhattam distance heurist
 # Assignment 2 The Mancala Game
 Implement a program to play the Mancala game.
 
-In this task, I also developed an advanced heuristic function, that is used as the bottom player agent in a game, where the top player agent is using the basic heuristic function. The bottom player is tested to have a win rate greater than 50%, and the rate is increased as the size of the game enlarged.
+In this task, I also developed an advanced heuristic function, that is used as the bottom player agent in a game, where the top player agent is using the basic heuristic function. The bottom player is tested to have a win rate greater than 50%, and the rate is increased as the size of the game enlarges.
 
 # Assignment 3 The Kropki Sudoku Puzzle
 Implement a program to solve the Kropki Sudoku puzzles (6x6 and 9x9) using the knowledge of CSP.
